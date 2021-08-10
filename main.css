@@ -9,7 +9,7 @@ img {
   border-radius: 16px;
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
+  justify-content: center;
 }
 
 h2 {
@@ -32,11 +32,11 @@ h2 {
 article {
   background-color: navy;
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
   margin-right: 25px;
   margin-top: 25px;
   color: oldlace;
-  align-items: center;
+  justify-content: center;
   font-family: "Roboto", sans-serif;
 }
 
