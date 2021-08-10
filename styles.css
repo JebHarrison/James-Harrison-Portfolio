@@ -10,8 +10,12 @@ img {
 .header{
     margin-top: 0px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: row;
     background-color: navy;
+    height: 58px;
+    border-radius: 19px;
+    color: oldlace;
+    align-items: center;
 
 }
