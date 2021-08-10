@@ -18,18 +18,6 @@ h2 {
   color: navy;
 }
 
-article {
-  background-color: navy;
-  display: flex;
-  margin-right: 25px;
-  margin-top: 25px;
-  color: oldlace;
-  justify-content: center;
-  font-family: "Roboto", sans-serif;
-  align-items: center;
-  font-size: 25px;
-}
-
 p {
   font-family: "Roboto", sans-serif;
   font-size: 15px;
@@ -46,6 +34,18 @@ p {
   border-radius: 19px;
   color: oldlace;
   align-items: center;
+}
+
+article {
+  background-color: navy;
+  display: flex;
+  margin-right: 25px;
+  margin-top: 25px;
+  color: oldlace;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  align-items: center;
+  font-size: 25px;
 }
 
 .footer {
