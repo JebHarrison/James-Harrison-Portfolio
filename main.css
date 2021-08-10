@@ -32,12 +32,12 @@ h2 {
 article {
   background-color: navy;
   display: flex;
-  flex-direction: row;
   margin-right: 25px;
   margin-top: 25px;
   color: oldlace;
   justify-content: center;
   font-family: "Roboto", sans-serif;
+  align-items: center;
 }
 
 .header {

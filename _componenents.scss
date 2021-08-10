@@ -29,11 +29,11 @@ h2 {
 article {
     background-color: $primary-color;
     display: flex;
-    flex-direction: row;
     margin-right: 25px ;
     margin-top: 25px;
     color: $color-white;
     justify-content: center;
     font-family: $font-body;
+    align-items: center;
 }
 
