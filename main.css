@@ -18,19 +18,6 @@ h2 {
   color: navy;
 }
 
-.footer {
-  display: flex;
-  justify-content: space-between;
-  flex-direction: row;
-  background-color: navy;
-  height: 58px;
-  border-radius: 19px;
-  color: oldlace;
-  align-items: center;
-  margin-bottom: 0px;
-  font-family: "Open-Sans", cursive;
-}
-
 article {
   background-color: navy;
   display: flex;
@@ -59,4 +46,17 @@ p {
   border-radius: 19px;
   color: oldlace;
   align-items: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  background-color: navy;
+  height: 58px;
+  border-radius: 19px;
+  color: oldlace;
+  align-items: center;
+  margin-bottom: 0px;
+  font-family: "Open-Sans", cursive;
 }
