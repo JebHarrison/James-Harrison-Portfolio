@@ -3,18 +3,15 @@ img {
     width: 250px;
     border-radius: 16px;
     display: flex;
-    justify-content: end;
-    flex-direction: column-reverse;
+    flex-direction: row;
+    justify-content: flex-end;
 }
 
-.svg {
-    margin-top: 0%;
-    margin-left: 0%;
-}
-
-.head {
+.header{
     margin-top: 0px;
     display: flex;
     justify-content: center;
     flex-direction: row;
+    background-color: navy;
+
 }
