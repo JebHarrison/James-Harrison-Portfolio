@@ -12,7 +12,7 @@ img {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    background-color: navy;
+    background-color: $primary-color;
     height: 58px;
     border-radius: 19px;
     color: oldlace;
@@ -25,7 +25,7 @@ img {
     display: flex;
     justify-content: space-between;
     flex-direction: row;
-    background-color: navy;
+    background-color: $primary-color;
     height: 58px;
     border-radius: 19px;
     color: oldlace;
@@ -35,7 +35,7 @@ img {
 
 
 article {
-    background-color: olive;
+    background-color: $primary-color;
     display: flex;
     flex-direction: row-reverse;
     margin-right: 25px ;
