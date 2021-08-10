@@ -12,6 +12,10 @@ img {
   justify-content: flex-end;
 }
 
+h2 {
+  color: navy;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
