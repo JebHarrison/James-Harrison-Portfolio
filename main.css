@@ -18,6 +18,16 @@ h2 {
   color: navy;
 }
 
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  color: oldlace;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 p {
   font-family: "Roboto", sans-serif;
   font-size: 15px;
