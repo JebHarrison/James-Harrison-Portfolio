@@ -32,3 +32,16 @@ img {
     align-items: center;
     margin-bottom: 0px;
 }
+
+
+article {
+    background-color: olive;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 25px ;
+    margin-top: 25px;
+    color: navy;
+    align-items: center;
+
+
+}
