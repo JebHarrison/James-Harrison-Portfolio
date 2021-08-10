@@ -42,13 +42,6 @@ article {
   flex-direction: row-reverse;
   margin-right: 25px;
   margin-top: 25px;
-  color: navy;
+  color: oldlace;
   align-items: center;
-}
-
-.heading {
-  display: flex;
-  color: orangered;
-  flex-direction: column;
-  background-color: palegreen;
 }
