@@ -43,6 +43,12 @@ article {
   font-size: 25px;
 }
 
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+}
+
 .header {
   margin-top: 0px;
   display: flex;
