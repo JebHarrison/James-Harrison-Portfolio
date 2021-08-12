@@ -33,6 +33,10 @@ p {
   font-size: 15px;
   font-weight: 100;
 }
+p #james-list {
+  color: navy;
+  list-style-type: none;
+}
 
 .main {
   margin-top: 100px;
