@@ -48,9 +48,9 @@ p {
     font-family: $font-body;
     font-size: 15px;
     font-weight: 100;
-   #james-list {
+   ul {
        color: $primary-color;
-        list-style-type: none;
+        list-style-type: square;
     }
 }
 
