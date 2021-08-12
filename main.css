@@ -24,7 +24,10 @@ img {
   display: flex;
   flex-direction: column;
   background-color: chartreuse;
-  justify-content: flex-start space-around;
+  justify-content: space-between;
+}
+.intro h1 {
+  color: navy;
 }
 
 h2 {

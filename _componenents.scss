@@ -20,7 +20,10 @@ img {
     display: flex;
     flex-direction: column;
     background-color: chartreuse;
-    justify-content: flex-start space-around;   
+    justify-content: space-between;
+    h1 {
+        color: $primary-color;
+    }   
 }
 
 
