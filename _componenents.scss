@@ -13,6 +13,8 @@ img {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin: 15px 15px 15px;
+    padding: 15px 15px 15px;
 }
 
 
@@ -20,8 +22,11 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    margin: 15px 15px 15px;
     h1 {
         color: $primary-color;
+        font-size: xx-large;
+        background-color: red;
     }   
 }
 
