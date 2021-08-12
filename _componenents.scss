@@ -28,6 +28,10 @@ p {
     font-family: $font-body;
     font-size: 15px;
     font-weight: 100;
+   #james-list {
+       color: $primary-color;
+        list-style-type: none;
+    }
 }
 
 .main {
