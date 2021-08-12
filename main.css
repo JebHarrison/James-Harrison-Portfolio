@@ -18,7 +18,7 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: 15px 15px 15px;
+  margin: 50px 50px 50px;
   padding: 15px 15px 15px;
 }
 
@@ -26,12 +26,11 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin: 15px 15px 15px;
+  margin: 15px 50px 15px;
 }
 .intro h1 {
   color: navy;
   font-size: xx-large;
-  background-color: red;
 }
 
 h2 {
