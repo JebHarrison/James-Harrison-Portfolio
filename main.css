@@ -23,7 +23,6 @@ img {
 .intro {
   display: flex;
   flex-direction: column;
-  background-color: chartreuse;
   justify-content: space-between;
 }
 .intro h1 {
