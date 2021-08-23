@@ -41,4 +41,7 @@ section {
     align-items: center;
     margin-bottom: 0px;
     font-family: $font-display;
+    a {
+        color: $color-white;
+    }
 }
