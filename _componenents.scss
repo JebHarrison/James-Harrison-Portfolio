@@ -67,4 +67,6 @@ p {
 
 .icon {
     color: $primary-color;
+    display: flex;
+    justify-content: space-between;
 }

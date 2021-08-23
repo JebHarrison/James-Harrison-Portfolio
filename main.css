@@ -65,6 +65,8 @@ p {
 
 .icon {
   color: navy;
+  display: flex;
+  justify-content: space-between;
 }
 
 .header {
