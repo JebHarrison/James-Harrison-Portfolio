@@ -30,7 +30,13 @@ img {
 }
 
 h2 {
+  color: oldlace;
+  font-size: x-large;
+}
+
+h3 {
   color: navy;
+  font-style: "Open-Sans", cursive;
   font-size: x-large;
 }
 
@@ -55,10 +61,6 @@ p {
   list-style-type: none;
   color: navy;
   margin: 5px;
-}
-
-.main {
-  margin-top: 100px;
 }
 
 .header {
