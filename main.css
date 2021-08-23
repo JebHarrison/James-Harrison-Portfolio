@@ -90,6 +90,9 @@ p {
   color: oldlace;
   align-items: center;
 }
+.header a {
+  color: oldlace;
+}
 
 main {
   background-color: navy;
