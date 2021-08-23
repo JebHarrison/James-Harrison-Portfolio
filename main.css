@@ -72,6 +72,9 @@ p {
 .icon :hover {
   color: red;
 }
+.icon :hover :visited {
+  color: navy;
+}
 
 .header {
   margin-top: 0px;
