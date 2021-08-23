@@ -72,6 +72,13 @@ p {
   font-weight: 100;
 }
 
+.figure {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: hotpink;
+}
+
 #james-list {
   list-style-type: none;
   color: navy;
