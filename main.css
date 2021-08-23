@@ -67,6 +67,7 @@ p {
   color: navy;
   display: flex;
   justify-content: space-between;
+  height: 100px;
 }
 .icon a {
   color: navy;
