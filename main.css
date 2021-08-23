@@ -69,10 +69,13 @@ p {
   justify-content: space-between;
   size: 30px;
 }
-.icon :hover {
+.icon a {
+  color: navy;
+}
+.icon a :hover {
   color: red;
 }
-.icon :hover :visited {
+.icon a :hover :visited {
   color: navy;
 }
 

@@ -70,10 +70,13 @@ p {
     display: flex;
     justify-content: space-between;
     size: 30px;
-    :hover {
-        color: red;
-    :visited {
+    a { 
         color: $primary-color;
+        :hover {
+            color: red;
+            :visited {
+            color: $primary-color;
+            }
         }
     }
 }
