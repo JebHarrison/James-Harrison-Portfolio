@@ -65,6 +65,10 @@ p {
   font-size: large;
 }
 
+#languages {
+  color: green;
+}
+
 .icon {
   color: navy;
   display: flex;
