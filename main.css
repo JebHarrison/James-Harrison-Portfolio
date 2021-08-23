@@ -39,6 +39,10 @@ h3 {
   font-style: "Open-Sans", cursive;
   font-size: x-large;
 }
+h3 .icon {
+  display: flex;
+}
+
 .box {
   height: 100px;
   width: 100px;
