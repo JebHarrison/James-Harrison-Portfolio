@@ -61,6 +61,8 @@ p {
   list-style-type: none;
   color: navy;
   margin: 5px;
+  font-family: "Roboto", sans-serif;
+  font-size: large;
 }
 
 .icon {
