@@ -70,6 +70,8 @@ p {
 }
 .icon a {
   color: navy;
+  height: 50px;
+  width: 50px;
 }
 .icon a :hover {
   color: red;

@@ -71,6 +71,8 @@ p {
     justify-content: space-between;
     a { 
         color: $primary-color;
+        height: 50px;
+        width: 50px;
         :hover {
             color: red;
             :visited {
