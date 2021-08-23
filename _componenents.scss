@@ -70,4 +70,7 @@ p {
     display: flex;
     justify-content: space-between;
     size: 30px;
+    :hover {
+        color: red;
+    }
 }

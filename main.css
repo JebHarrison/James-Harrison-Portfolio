@@ -69,6 +69,9 @@ p {
   justify-content: space-between;
   size: 30px;
 }
+.icon :hover {
+  color: red;
+}
 
 .header {
   margin-top: 0px;
