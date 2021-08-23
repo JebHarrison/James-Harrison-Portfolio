@@ -73,6 +73,12 @@ p {
   align-items: center;
 }
 
+main {
+  margin: 50px;
+  background-color: navy;
+  color: oldlace;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
