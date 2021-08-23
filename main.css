@@ -53,6 +53,8 @@ p {
 
 #james-list {
   list-style-type: none;
+  color: navy;
+  margin: 5px;
 }
 
 .main {
