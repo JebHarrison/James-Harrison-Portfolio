@@ -20,6 +20,14 @@ main {
     font: $font-display;
 }
 
+section {
+    background-color: $primary-color;
+    color: $color-white;
+    width: 100%;
+    border-radius: 19px;
+    margin: 0px 5px 0px;
+    font: $font-display;
+}
 
 
 .footer {

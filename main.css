@@ -84,6 +84,15 @@ main {
   font: "Open-Sans", cursive;
 }
 
+section {
+  background-color: navy;
+  color: oldlace;
+  width: 100%;
+  border-radius: 19px;
+  margin: 0px 5px 0px;
+  font: "Open-Sans", cursive;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
