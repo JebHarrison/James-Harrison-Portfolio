@@ -51,10 +51,10 @@ p {
     font-family: $font-body;
     font-size: 15px;
     font-weight: 100;
-   ul {
-       color: $primary-color;
-        list-style-type: square;
-    }
+}
+
+#james-list {
+    list-style-type: none;
 }
 
 .main {
