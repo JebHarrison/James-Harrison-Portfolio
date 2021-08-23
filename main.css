@@ -67,6 +67,7 @@ p {
   color: navy;
   display: flex;
   justify-content: space-between;
+  size: 30px;
 }
 
 .header {
