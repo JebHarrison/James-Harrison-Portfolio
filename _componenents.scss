@@ -69,6 +69,10 @@ p {
 
 .mylang {
     background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
 }
 
 
