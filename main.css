@@ -74,9 +74,9 @@ p {
 }
 
 main {
-  margin: 50px;
   background-color: navy;
   color: oldlace;
+  width: 100%;
 }
 
 .footer {
