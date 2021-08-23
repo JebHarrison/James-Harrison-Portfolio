@@ -6,4 +6,10 @@ $font-display: "Open-Sans", cursive;
 $primary-color: navy ;
 $color-white: oldlace ;
 
+@media screen and (max-width: 480px){
+    main { 
+        width: 200px ;
+    }
+}
+
 
