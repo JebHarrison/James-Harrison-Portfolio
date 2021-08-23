@@ -39,9 +39,6 @@ h3 {
   font-style: "Open-Sans", cursive;
   font-size: x-large;
 }
-h3 .icon {
-  display: flex;
-}
 
 .box {
   height: 100px;
@@ -64,6 +61,10 @@ p {
   list-style-type: none;
   color: navy;
   margin: 5px;
+}
+
+.icon {
+  color: navy;
 }
 
 .header {
