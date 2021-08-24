@@ -95,14 +95,6 @@ p {
   justify-content: space-evenly;
 }
 
-.mylang {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: hotpink;
-}
-
 .icon {
   color: navy;
   display: flex;
