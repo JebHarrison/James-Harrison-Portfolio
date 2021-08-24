@@ -13,9 +13,8 @@ img {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin: 50px 250px 50px;
+    margin: 50px 250px 25px;
     padding: 15px 15px 15px;
-    background-color: $color-white;
 }
 
 
@@ -44,10 +43,6 @@ h3 {
     margin: 15px;
 }
 
-.prodjects {
-    background-color: $color-white;
-}
-
 .box {
     height: 100px;
     width: 100px;
@@ -73,7 +68,6 @@ p {
     flex-direction: row;
     justify-content: space-around;
     margin: 10px 50px 10px;
-    background-color: $color-white;
     align-items: baseline;
 }
 
@@ -95,7 +89,6 @@ p {
     color: $primary-color;
     display: flex;
     justify-content: space-around;
-    background-color: $color-white;
     a { 
         color: $primary-color;
         margin-top: 50px;

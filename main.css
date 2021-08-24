@@ -29,9 +29,8 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: 50px 250px 50px;
+  margin: 50px 250px 25px;
   padding: 15px 15px 15px;
-  background-color: oldlace;
 }
 
 .intro {
@@ -58,10 +57,6 @@ h3 {
   margin: 15px;
 }
 
-.prodjects {
-  background-color: oldlace;
-}
-
 .box {
   height: 100px;
   width: 100px;
@@ -85,7 +80,6 @@ p {
   flex-direction: row;
   justify-content: space-around;
   margin: 10px 50px 10px;
-  background-color: oldlace;
   align-items: baseline;
 }
 
@@ -104,7 +98,6 @@ p {
   color: navy;
   display: flex;
   justify-content: space-around;
-  background-color: oldlace;
 }
 .icon a {
   color: navy;
