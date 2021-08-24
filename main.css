@@ -81,7 +81,7 @@ p {
   justify-content: space-around;
   margin: 10px;
   background-color: yellow;
-  align-items: center;
+  align-items: baseline;
 }
 
 #james-list {
