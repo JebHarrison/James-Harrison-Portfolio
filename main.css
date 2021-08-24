@@ -31,6 +31,7 @@ img {
   justify-content: space-between;
   margin: 50px 50px 50px;
   padding: 15px 15px 15px;
+  background-color: oldlace;
 }
 
 .intro {
@@ -55,6 +56,10 @@ h3 {
   font-style: "Open-Sans", cursive;
   font-size: x-large;
   margin: 15px;
+}
+
+.prodjects {
+  background-color: oldlace;
 }
 
 .box {
@@ -99,6 +104,7 @@ p {
   color: navy;
   display: flex;
   justify-content: space-around;
+  background-color: oldlace;
 }
 .icon a {
   color: navy;
@@ -155,11 +161,11 @@ section {
   background-color: navy;
   height: 58px;
   border-radius: 19px;
-  color: white;
+  color: oldlace;
   align-items: center;
   margin-bottom: 0px;
   font-family: "Open-Sans", cursive;
 }
 .footer a {
-  color: white;
+  color: oldlace;
 }
