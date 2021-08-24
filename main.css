@@ -84,7 +84,7 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  margin: 10px;
+  margin: 10px 50px 10px;
   background-color: oldlace;
   align-items: baseline;
 }
@@ -139,7 +139,7 @@ main {
   color: oldlace;
   width: 100%;
   border-radius: 19px;
-  margin: 0px 5px 0px;
+  margin: 0px 5px 50px;
   font: "Open-Sans", cursive;
   height: 25%;
 }
@@ -149,7 +149,7 @@ section {
   color: oldlace;
   width: 100%;
   border-radius: 19px;
-  margin: 0px 5px 0px;
+  margin: 0px 5px 50px;
   font: "Open-Sans", cursive;
   height: 25%;
 }
@@ -163,7 +163,7 @@ section {
   border-radius: 19px;
   color: oldlace;
   align-items: center;
-  margin-bottom: 0px;
+  margin: 0px 0px 0px;
   font-family: "Open-Sans", cursive;
 }
 .footer a {
