@@ -66,8 +66,10 @@ p {
 .figure {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     margin: 10px;
+    background-color: yellow;
+    align-items: center;
 }
 
 
@@ -84,8 +86,9 @@ p {
 .mylang {
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
-    align-items: flex-end;
+    justify-content: center;
+    align-items: center;
+    background-color: hotpink;
 }
 
 
